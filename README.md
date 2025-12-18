@@ -1,3 +1,5 @@
-# exceldashboard
-it will be about excel dashboard
-this is what i have created in real scenario, sharing the reference of my work
+# Placement CRM Dashboard – Excel Analytics Project
+
+## Excel-Based Placement CRM Performance Analytics Dashboard
+
+*An end-to-end Excel dashboard analyzing placement performance, specialist productivity, response rates, and retention metrics using real-world CRM data.*
