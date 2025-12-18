@@ -36,5 +36,3 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 - Average Employer Response Rate (%)
 - Lead → Placement → Retention Funnel
 
----
-
