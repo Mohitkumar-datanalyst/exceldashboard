@@ -26,3 +26,15 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 - Which job cohorts perform better in placement conversion?
 - How strong is candidate retention after placement?
 - What is the average placement cycle time?
+
+## 📊 Key KPIs Used
+
+- Placement Rate (%)
+- Retention Rate (%)
+- Average Placement Cycle Time (Days)
+- Calls per Week (Specialist-wise)
+- Average Employer Response Rate (%)
+- Lead → Placement → Retention Funnel
+
+---
+
