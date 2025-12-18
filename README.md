@@ -52,6 +52,7 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 4. Built pivot tables and pivot charts
 5. Designed KPI cards with conditional formatting
 6. Added slicers for dynamic filtering by:
+
    - Specialist ID
    - Field / Cohort
    - Job Category
