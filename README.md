@@ -18,3 +18,11 @@ The dashboard helps placement teams and management track:
 - Retention outcomes
 
 using **Excel dashboards, KPIs, slicers, and charts.**
+
+## 🎯 Business Questions Answered
+
+- What is the overall placement success rate?
+- How effective are specialists in terms of calls vs employer response?
+- Which job cohorts perform better in placement conversion?
+- How strong is candidate retention after placement?
+- What is the average placement cycle time?
