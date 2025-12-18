@@ -83,6 +83,8 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 ## ✅ Final Conclusion
 This Excel Placement CRM Dashboard demonstrates how structured data analysis and visualization can significantly improve recruitment and placement decision-making.
 
+---
+
 ### 🔗 Author
 **Mohit Kumar**  
 Data Analyst @ PwC | Excel | Power BI | SQL  
