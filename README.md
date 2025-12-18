@@ -26,6 +26,7 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 - Which job cohorts perform better in placement conversion?
 - How strong is candidate retention after placement?
 - What is the average placement cycle time?
+- Dashboard Interaction ![View Dashboard](Dashboard/Placement_CRM_Dashboard.png)
 
 ## 📊 Key KPIs Used
 
@@ -37,7 +38,6 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 - Lead → Placement → Retention Funnel
 
 ## 🗂 Dataset Information
-
 
 - File: `Placement_CRM_Data.xlsx`
 - Contains candidate, specialist, job category, placement status, and response data
@@ -58,7 +58,7 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 `
 ## 📸 Dashboard Preview
 
-![Placement CRM Dashboard](Dashboard/Placement_CRM_Dashboard.png)
+<img width="1843" height="704" alt="Screenshot 2025-12-17 210258" src="https://github.com/user-attachments/assets/5ab679ac-ed5a-4024-bd76-833fd654a5b4" />
 
 ## 📈 Key Insights
 - Overall Placement Rate: **56%**
