@@ -42,9 +42,7 @@ using **Excel dashboards, KPIs, slicers, and charts.**
 - File: `Placement_CRM_Data.xlsx`
 - Contains candidate, specialist, job category, placement status, and response data
 - Dataset location:  
-  📁 - <a href="https://github.com/Mohitkumar-datanalyst/exceldashboard/blob/main/Placement_CRM_Data.xlsx">Dataset/Placement_CRM_Data.xlsx</a>
-
-  📁 `Dataset/Placement_CRM_Data.xlsx`
+  📁  <a href="https://github.com/Mohitkumar-datanalyst/exceldashboard/blob/main/Placement_CRM_Data.xlsx">Dataset/Placement_CRM_Data.xlsx</a>
 
 ## ⚙️ Project Process
 
